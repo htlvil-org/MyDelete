@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Car implements Serializable {
 
 	/**
-	 * 
+	 * asdfadf
 	 */
 	private static final long serialVersionUID = 1L;
 
