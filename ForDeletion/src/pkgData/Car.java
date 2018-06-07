@@ -1,6 +1,6 @@
 package pkgData;
 
 public class Car {
-	int id;
+	int id;  /* 12 */
 	String name;
 }
